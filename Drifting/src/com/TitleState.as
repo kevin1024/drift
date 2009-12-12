@@ -30,7 +30,7 @@ package com
 		
 		private function onFade():void
       	{
-      		FlxG.switchState(MenuState);
+      		FlxG.switchState(PlayState);
       	}
 		
 		override public function update():void
