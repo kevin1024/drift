@@ -13,6 +13,7 @@ package {
 		{
 			//super(400,300,TitleState,2,0xff000000,false,0xffffffff);
 			super(400,300,TitleState,2);
+			this.showLogo = false;
 			help("Jump","Shoot","Nothing");
 		}
 	}
